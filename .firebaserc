@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "employeemanagement-2d84d": {
+      "hosting": {
+        "Employers": [
+          "employeemanagement-2d84d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "employeemanagement-2d84d"
+  }
+}
